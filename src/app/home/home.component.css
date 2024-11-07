@@ -1,0 +1,40 @@
+.result {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+
+}
+app-food {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+}
+
+.login {
+    margin-left:auto;
+    width: 70px;
+    height: 50px;
+    margin-top: auto;
+}
+#search{
+    width: 300px;
+    height: 30px;
+    margin-top: auto;
+    margin-right: 20px;
+}
+#search-button{
+    height: 35px;
+    margin-top: auto;
+}

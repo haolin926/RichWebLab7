@@ -1,0 +1,31 @@
+.food-photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.food-describe {
+    margin-top: 20px;
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+article{
+    background-color: aliceblue;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.food-nutrition{
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 220px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.section-heading {
+    border-bottom: 1px solid black;
+    width:220px;
+}

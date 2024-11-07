@@ -1,0 +1,16 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 10px;
+}
+#login_form{
+    display: flex;
+    flex-direction: column;
+    width:300px;
+}
+.primary{
+    padding: 14px 20px;
+    margin: 8px 0;
+    width: 100px;
+}
